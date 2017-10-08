@@ -1,0 +1,13 @@
+{
+  "name": "bloom-factory",
+  "version": "1.0.0",
+  "description": "Factory to create bloom filters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
