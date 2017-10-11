@@ -9,5 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+      "farmhash": "^1.2.1"
   }
 }
