@@ -1,4 +1,4 @@
-hash = require('farmhash')
+import * as farmhash from 'farmhash';
 
 class Bloom {
     constructor(expected_items=100, false_positive=0.01) {
